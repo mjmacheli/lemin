@@ -1,0 +1,22 @@
+ 20
+##end
+# a 1 2
+ b 2 3
+ c 3 4
+##start
+ d 4 5
+ e 5 6
+ f 90 78
+ g 0 0
+ a-b
+ a-c
+ a-e
+ e-d
+ e-c
+ c-d
+ d-b
+ a-f
+ e-f
+ g-b
+ g-a
+#need to fix no rooms
